@@ -1,0 +1,92 @@
+.title {
+    text-align: center;
+    color: #62b98f;
+    font-family: 'Saira Stencil One', cursive;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    color: #62b98f;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.btn {
+    color: #62b98f;
+    border-color: #62b98f;
+}
+
+.form-control {
+    background-color: black;
+    color: #62b98f;
+    border-color: #62b98f;
+}
+
+.input {
+    background-color: black;
+    color: #62b98f;
+    border-color: #62b98f;
+    border: solid;
+    border-width: 2px;
+}
+
+img {
+    height: 500px;
+    border: solid;
+    border-color: #62b98f;
+    border-width: 2px;
+}
+
+.call {
+    background-color: darkred;
+    font-size: 50px;
+    border: solid;
+    border-color: #62b98f;
+    border-width: 1px;
+    border-radius: 2px;
+    color: #62b98f;
+    padding: 5px;
+}
+
+.call:hover {
+    background-color: red;
+}
+
+#choice {
+    height: 500px;
+    border: solid;
+    border-color: #62b98f;
+    border-width: 2px;
+}
+
+span { 
+    font-size: 70px;
+}
+
+span b { 
+    font-size: 50px; font-weight: normal;
+}
+
+.dialogue {
+    width: 1000px;
+    border: solid;
+    border-color: #62b98f;
+    border-width: 2px;
+    color: white;
+    padding: 10px;
+}
+
+.text {
+    font-size: 20px;
+    padding: 70px 0;
+}
+
+.bar {
+    color: black;
+    background-color: #62b98f;
+    text-align: left;
+}
+
+.blank {
+    color: #62b98f;
+}
