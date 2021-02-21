@@ -89,5 +89,5 @@ def choice_00_000():
 
 
 if __name__=="__main__":
-    app.run()
+    app.run(debug=True)
 
